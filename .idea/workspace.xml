@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jlrNI25Hy4H3DzVGkoTzIW0BUH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,10 +39,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1605626407487" />
-    <state x="380" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1606333654837">
+    <state x="380" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1606426814952">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="380" y="260" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1606333654836" />
+    <state x="380" y="260" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1606426814952" />
     <state x="311" y="0" width="744" height="872" key="find.popup" timestamp="1605296473370">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
